@@ -1,4 +1,4 @@
-👋 Hi, I’m @Queeeenquel
+👋 Hi, I’m Jacquel Tierra
 - 🌞 Where the sun always shines
 - 👀 I’m interested in Web Development, UI/UX design, and Animation
 - 🌱 I’m currently learning Swift
